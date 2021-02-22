@@ -17,7 +17,7 @@ markdown: kramdown
 title:       "Ancient MakerSpaces 2022"
 keywords:    "classics, archaeology, digital humanities"
 description: "Showcasing Digital Approaches to Studying the Ancient World"
-source_link: "https://libatique.info/AMS2021/"
+source_link: "https://libatique.info/AMS2022/"
 favicon:     "img/laptop-code-solid.svg"
 touch_icon:  "img/laptop-code-solid.svg"
 google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
