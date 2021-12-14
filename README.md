@@ -13,11 +13,12 @@ View past Ancient MakerSpaces schedules here:
 ## Credits
 
 **2021 AMS Organizing Committee**
+- Savannah Bishop, Koç University
 - Aaron Hershkowitz, Institute for Advanced Study
+- Daniel Libatique, College of the Holy Cross
 - Rachel Starry, University of California, Riverside
 - Natalie Susmann, MIT
-- Daniel Libatique, College of the Holy Cross
-- Sean Tennant
-- Savannah Bishop
+- Sean Tennant, Union College
+
 
 This AMS 2022 landing page was created by [Daniel Libatique](https://libatique.info), based on previous AMS pages assembled by [Rachel Starry](http://rachelstarry.org) and [Patrick J. Burns](http://diyclassics.github.io/), and built with Jekyll using the [SinglePaged](https://github.com/t413/SinglePaged) theme by [Tim O'Brien](http://t413.com/).
