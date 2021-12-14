@@ -1,6 +1,6 @@
 ---
 title: "abstracts"
-bg: "#262626"
+bg: black
 color: white
 fa-icon: folder
 ---
@@ -8,4 +8,4 @@ fa-icon: folder
 # Abstracts
 {: .text-purple}
 
-**TBD**
+**forthcoming**
